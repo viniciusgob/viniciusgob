@@ -19,7 +19,6 @@
     <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align="center" height="30" width="40" alt="angular" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/angular-icon.svg">
    </div>
     
   
